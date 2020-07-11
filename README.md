@@ -55,10 +55,10 @@ Clone a Linked List with random and next pointer.
 . 
 
 ####Day7: (2-pointer) 
-Merge two sorted LinkedLists 
-Find the starting point of the loop. 
-[2 Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-3 sum 
+1.Merge two sorted LinkedLists 
+2. Find the starting point of the loop. 
+3. [2 Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+4. [3 sum](https://github.com/shrinathjoshi/SDE-Problems/blob/master/src/com/techev/sdeInterview/TwoPointer/ThreeSum.java) 
 Trapping rainwater 
 Remove Duplicate from Sorted array 
 Max continuous number of 1’s  
