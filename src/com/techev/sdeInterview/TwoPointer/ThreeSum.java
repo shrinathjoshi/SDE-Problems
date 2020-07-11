@@ -1,4 +1,4 @@
-package com.techev.sdeInterview.Hashing;
+package com.techev.sdeInterview.TwoPointer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
