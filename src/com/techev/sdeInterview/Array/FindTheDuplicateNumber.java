@@ -43,7 +43,9 @@ public class FindTheDuplicateNumber {
 
 		// Time complexity :- O(n)
 		// Space complexity :- O(n)
-
+		// Reference :-
+		// https://leetcode.com/problems/find-the-duplicate-number/solution/
+		// https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare
 		Set<Integer> seen = new HashSet<Integer>();
 
 		for (int number : nums) {
