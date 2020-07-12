@@ -35,7 +35,11 @@ Longest Subarray with 0 sum
 Count number of subarrays with given XOR(this clears a lot of problems) 
 Longest substring without repeat 
 
-#### Day5: (LinkedList) 
+#### Day5: (LinkedList)
+| Problem  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading|
+|---|---|---|---|---|---|---|---|---|
+| Linked List Cycle|[Leetcode 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java]()|Easy|LinkedList|Fast and Slow Pointer|O(n)|O(1)|https://leetcode.com/problems/linked-list-cycle/solution/|
+
 Reverse a LinkedList 
 Find middle of LinkedList 
 Merge two sorted Linked List 
