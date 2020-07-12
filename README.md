@@ -38,8 +38,8 @@ Longest substring without repeat
 #### Day5: (LinkedList)
 | Problem  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading|
 |---|---|---|---|---|---|---|---|---|
-| Linked List Cycle|[Leetcode 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java]()|Easy|LinkedList|Fast and Slow Pointer|O(n)|O(1)|https://leetcode.com/problems/linked-list-cycle/solution/|
-| Linked List Cycle two|[Leetcode 142. Linked List Cycle two](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java]()|Medium|LinkedList|Fast and Slow Pointer|O(n)|O(1)|NA|
+| Linked List Cycle|[Leetcode 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/shrinathjoshi/SDE-Problems/blob/master/src/com/techev/sdeInterview/LinkedList/LinkedListCycle.java)|Easy|LinkedList|Fast and Slow Pointer|O(n)|O(1)|https://leetcode.com/problems/linked-list-cycle/solution/|
+| Linked List Cycle two|[Leetcode 142. Linked List Cycle two](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](https://github.com/shrinathjoshi/SDE-Problems/blob/master/src/com/techev/sdeInterview/LinkedList/LinkedListCycleTwo.java)|Medium|LinkedList|Fast and Slow Pointer|O(n)|O(1)|NA|
 
 Reverse a LinkedList 
 Find middle of LinkedList 
