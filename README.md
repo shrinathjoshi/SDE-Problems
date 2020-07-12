@@ -1,8 +1,10 @@
 # SDE-Problems
 ### A list of Standard SDE problem 
 #### Day1: (Arrays)
-
-Find the duplicate in an array of N integers. 
+| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading|
+|---|---|---|---|---|---|---|---|---|
+| Find the duplicate in an array of N integers  |  [Leetcode 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](https://github.com/shrinathjoshi/SDE-Problems/blob/master/src/com/techev/sdeInterview/Array/FindTheDuplicateNumber.java)  | Medium  | Array  | NA  | O(n)  |  O(1) | https://leetcode.com/problems/find-the-duplicate-number/solution/  |
+. 
 Sort an array of 0’s 1’s 2’s without using extra space or sorting algo 
 Repeat and Missing Number 
 Merge two sorted Arrays without extra space 
